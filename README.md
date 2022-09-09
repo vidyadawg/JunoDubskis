@@ -14,7 +14,7 @@ In order to have this work you will need to follow a few steps.
 
 - Numpad+ for incrementing the wins
 - Numpad- for incrementing the losses
-- Home key for resetting the score
+- Ctrl+Alt+A key for resetting the score
 - Delete key to exit the program from anywhere
 
 ### Troubleshooting:
